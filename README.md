@@ -33,7 +33,7 @@ The objective is to build and compare optimization models (linear and mixed-inte
 - Prisca Varner
 - Zan Merrill  
 
-**Course:** Optimization / Integer Programming — McCombs School of Business  
+**Course:** Optimization — McCombs School of Business MSBA 
 **Instructor:** Dan Mitchell
 
 ---
